@@ -30,4 +30,15 @@ A Central Bank Of Memes always wins because we let it more credibility :)
 
 [Original image source](https://unsplash.com/photos/Ha4GZKWINdw)
 
+## Submission 6
+[Meme - Slot Ideas Machine](https://github.com/ivanmolto/memes-bank-always-wins/blob/main/6-final-release-slot-ideas-machine.png)
+
+[Original image source](https://github.com/guahsu/Vue-SlotMachine/blob/master/demo.png)
+
+
+## Submission 7
+[Meme - The Only Home Of Credibility](https://github.com/ivanmolto/memes-bank-always-wins/blob/main/7-final-release-blue-check-homes.png)
+
+[Origina image source](https://bluecheckhomes.com/assets/images/image05.jpg?v53a196608)
+
 
