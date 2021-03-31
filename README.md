@@ -39,6 +39,11 @@ A Central Bank Of Memes always wins because we let it more credibility :)
 ## Submission 7
 [Meme - The Only Home Of Credibility](https://github.com/ivanmolto/memes-bank-always-wins/blob/main/7-final-release-blue-check-homes.png)
 
-[Origina image source](https://bluecheckhomes.com/assets/images/image05.jpg?v53a196608)
+[Original image source](https://bluecheckhomes.com/assets/images/image05.jpg?v53a196608)
+
+
+## Submission 8
+
+[Meme - He will always have](https://github.com/ivanmolto/memes-bank-always-wins/blob/main/8-final-release-he-will-always-have.png)
 
 
